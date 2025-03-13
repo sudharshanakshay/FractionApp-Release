@@ -1,13 +1,37 @@
-# <img src="./docs/logo/fraction_app_logox400x300.png" height='50' width='70'/> Fraction App
+# <img src="./logo/fraction_app_logox400x300.png" height='50' width='70'/> Fraction App
 
-Tired of awkward money conversations? Well, Say hello to our expense management app! Splitting bills with friends has never been easier. Calculate, tract, and settle shared expenses hassle-free. Spend less time on calculations, and more time making memories together!
+# Expense Management App
 
-### 📊💰 Manage shared expenses effortlessly with our app!
+Tired of those awkward money moments with friends? 😬 Say hello to the future of managing shared expenses! 🚀 With our super **user-friendly** web app, splitting bills has never been easier. No more scrambling for calculations or chasing friends for money—everything is seamless, fast, and effortless. 💸✨
 
-1. 🔄👥 Create multiple groups for seamless expense tracking.
+## Features
 
-2. 🗓️⏱️ Set clear-off dates to simplify expense settlement.
+- 📊 **Effortless Expense Management**  
+  Say goodbye to complicated calculations! Track your shared expenses quickly and easily, all in one place.
 
-## 🚀🌟 Join our open-source project and contribute to its growth!
+- 🔄 **Create Multiple Groups**  
+  Planning a trip? Dinner party? Or just a night out? Organize your expenses by creating multiple groups—no more confusion!
 
-### 🤝🌐 We invite you to collaborate and enhance the app on GitHub.
+- 🗓️ **Clear-Off Dates**  
+  Set specific dates to settle up, and keep everyone on track! No more awkward reminders—just a smooth, simple process to close out your bills. ✔️
+
+- 🌟 **Flutter-Powered & User-Friendly**  
+  Built with **Flutter**, our app is optimized for both speed and ease of use. The sleek design and intuitive interface make managing your expenses enjoyable rather than a chore. 🎯
+
+## How to Use
+
+1. **Create a Group**  
+   - Organize your friends or trip attendees into groups.
+   
+2. **Add Expenses**  
+   - Add shared expenses, and the app will do the rest!
+
+3. **Settle Up**  
+   - Set clear-off dates to simplify expense settlement and avoid confusion.
+
+4. **Track & Manage**  
+   - Keep track of who owes what with ease!
+
+With our app, you can focus on what truly matters—making memories, not calculations! 🎉
+
+Ready to experience the easiest way to manage shared expenses? Start using our app now and make splitting bills a breeze! 🥳
