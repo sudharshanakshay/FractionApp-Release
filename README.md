@@ -1,4 +1,4 @@
-# <img src="./logo/fraction_app_logox400x300.png" height='50' width='70'/> Fraction App
+# <img src="./docs/logo/fraction_app_logox400x300.png" height='50' width='70'/> Fraction App
 
 # Expense Management App
 
